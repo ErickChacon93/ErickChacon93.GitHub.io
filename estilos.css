@@ -19,7 +19,7 @@ body{
     font-weight: bold;
     
 }
-mi-caja{
+.mi-caja{
     background-color: rgba(255, 255, 255, 0.7);
     width: auto;
     padding: 5px;
@@ -31,13 +31,13 @@ h1{
     color: black;
     font-weight: bold;
 }
-bg-body-primary{
+.bg-body-primary{
     background-color: rgba(21, 119, 147, 0.5);
 }
-bg-body-secondary{
+.bg-body-secondary{
     background-color: rgba(255, 255, 255, 0.7) !important;
 }
-bg-body-terceario{
+.bg-body-terceario{
     background-color: rgba(255, 255, 255, 0.5);
 }
 p{
